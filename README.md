@@ -15,8 +15,12 @@ T.T
 Anyway, thanks for reading this note.
 
  "Cam on nhung nguoi da di
+
  Biet on nhung nguoi da o lai
+
  Thanks for all my homies
+
  Thanks for creating me
+
  Wish you all the best XD"
 
