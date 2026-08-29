@@ -1,0 +1,10 @@
+# tick|source|hex_payload
+# 101=malformed PDU, 102=late timer, 103=queue pressure,
+# 104=domain restart, 100=raw IRQ. File này cố ý không sort để test parser;
+# equal ticks retain file order (IRQ 8 vẫn đi trước IRQ 9).
+15000|104|02
+14000|101|4d31303100
+16000|100|0800
+14500|103|41
+15500|102|f401
+16000|100|0900
